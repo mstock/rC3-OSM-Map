@@ -1,0 +1,3 @@
+[submodule "tileset"]
+	path = tilesets/rC3-OSM-Tileset
+	url = https://github.com/mstock/rC3-OSM-Tileset.git

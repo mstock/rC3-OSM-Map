@@ -1,0 +1,27 @@
+name: Optimize map and deploy
+on:
+  push:
+    branches:
+      - main
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          submodules: 'recursive'
+      - name: Optimize map
+        uses: thecodingmachine/map-optimizer-action@master
+      - name: Build pages
+        run: |
+          mkdir -v dist
+          cp -v *.json dist
+          rsync -av --prune-empty-dirs --include "*/"  --include="*.png" --exclude="*" tilesets/ dist/tilesets
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: dist
