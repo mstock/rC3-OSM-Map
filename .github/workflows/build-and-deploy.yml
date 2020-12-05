@@ -18,6 +18,7 @@ jobs:
         run: |
           mkdir -v dist
           cp -v *.json dist
+          cp -v .nojekyll dist
           rsync -av --prune-empty-dirs --include "*/"  --include="*.png" --exclude="*" tilesets/ dist/tilesets
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
