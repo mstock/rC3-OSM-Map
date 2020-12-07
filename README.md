@@ -5,6 +5,7 @@ This repo contains some maps built with the [Tiled Map Editor](https://www.maped
 ## Maps
 
 - [rC3-OSM-Tileset Example](osm-example.json) - Map which uses various tiles from the [rC3-OSM-Tileset](https://github.com/mstock/rC3-OSM-Tileset) and several of the [WorkAdventure](https://workadventu.re/) features.
+- [Main](main.json) - Main map which may serve as an entry point in the [rC3 world](https://rc3.world/).
 
 ## License
 
