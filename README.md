@@ -1,11 +1,18 @@
 # rC3-OSM-Map
 
-This repo contains some maps built with the [Tiled Map Editor](https://www.mapeditor.org/) which might be used for the [OSM assembly](https://wiki.openstreetmap.org/wiki/Chaos_Communication_Congress/rC3) in the [WorkAdventure](https://workadventu.re/)-based world at [rC3](https://rc3.world/). They make use of the [rC3-OSM-Tileset](https://github.com/mstock/rC3-OSM-Tileset) which is a tileset based on the [OpenStreetMap Carto](https://github.com/gravitystorm/openstreetmap-carto) map style. See the [rC3 world maps howto](https://howto.rc3.world/maps.html) about how to build maps.
+This repo contains some maps built with the [Tiled Map Editor](https://www.mapeditor.org/) which might be used for the [OSM assembly](https://wiki.openstreetmap.org/wiki/Chaos_Communication_Congress/rC3) in the [WorkAdventure](https://workadventu.re/)-based world at [rC3](https://rc3.world/). See the [rC3 world maps howto](https://howto.rc3.world/maps.html) about how to build maps.
 
 ## Maps
 
 - [rC3-OSM-Tileset Example](osm-example.json) - Map which uses various tiles from the [rC3-OSM-Tileset](https://github.com/mstock/rC3-OSM-Tileset) and several of the [WorkAdventure](https://workadventu.re/) features.
 - [Main](main.json) - Main map which may serve as an entry point in the [rC3 world](https://rc3.world/).
+
+## Used Tilesets
+
+Please note that the tilesets are included as [Git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules), so you will have to `git submodule update --init --recursive` them before they are available.
+
+* [rC3-OSM-Tileset](https://github.com/mstock/rC3-OSM-Tileset): Tileset based on the [OpenStreetMap Carto](https://github.com/gravitystorm/openstreetmap-carto) map style.
+* [world-tiles](https://git.cccv.de/rc3/world-tiles): Shared tilesets for the rC3 world. Please note that these tilesets may be provided under a different license than the remainder of this repository, but they should all be usable for the purpose of building a map for the [rC3 world](https://rc3.world/).
 
 ## License
 

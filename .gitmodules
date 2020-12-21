@@ -1,3 +1,6 @@
 [submodule "tileset"]
 	path = tilesets/rC3-OSM-Tileset
 	url = https://github.com/mstock/rC3-OSM-Tileset.git
+[submodule "tilesets/world-tiles"]
+	path = tilesets/world-tiles
+	url = https://git.cccv.de/rc3/world-tiles.git
