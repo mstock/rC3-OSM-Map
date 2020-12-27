@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/software.json#start_osm}"
+                 "value":"{<lobby>\/maps\/software.json#start_osm}"
                 }],
          "type":"tilelayer",
          "visible":true,
