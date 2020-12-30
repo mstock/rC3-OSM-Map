@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lounge>\/wa-toilet-party\/maps\/restroom-party.json}"
+                 "value":"{<lounge>\/wa-toilet-party\/maps\/restroom-party.json#start-osm}"
                 }],
          "type":"tilelayer",
          "visible":true,
