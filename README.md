@@ -1,6 +1,14 @@
 # rC3-OSM-Map
 
-This repo contains some maps built with the [Tiled Map Editor](https://www.mapeditor.org/) which might be used for the [OSM assembly](https://wiki.openstreetmap.org/wiki/Chaos_Communication_Congress/rC3) in the [WorkAdventure](https://workadventu.re/)-based world at [rC3](https://rc3.world/). See the [rC3 world maps howto](https://howto.rc3.world/maps.html) about how to build maps.
+This repo contains some maps built with the [Tiled Map Editor](https://www.mapeditor.org/) which might be used for the [OSM assembly](https://wiki.openstreetmap.org/wiki/Chaos_Communication_Congress/rC3) in the [WorkAdventure](https://workadventu.re/)-based world at [rC3](https://rc3.world/). See the [rC3 world maps howto](https://howto.rc3.world/maps.html) and the [official WorkAdventure documentation](https://workadventu.re/map-building/) about how to build maps.
+
+## Map development
+
+This repository also contains a simple, Python3 based web server in `serve-maps.py` which uses [`http.server`](https://docs.python.org/3/library/http.server.html) to serve the content of this repository:
+
+	python3 serve-maps.py
+
+By default, this starts a [local web server on port 8000](http://localhost:8000) which serves the [`index.html`](index.html) file and the maps. [`index.html`](index.html) contains a hard-coded list of maps in this repository which gets turned into a list of links to the public WorkAdventure instance using the local URLs of the maps, so they can be viewed in the browser by following the links.
 
 ## Maps
 
