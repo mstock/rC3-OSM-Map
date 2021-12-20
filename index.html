@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>rC3-OSM-Map</title>
+		<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+	</head>
+	<body>
+		<h1>rC3-OSM-Map</h1>
+
+		<ul id="maps"></ul>
+
+		<script type="text/javascript">
+			(function() {
+				const maps = [
+					{
+						name: 'Main',
+						path: 'main.json'
+					},
+					{
+						name: 'Square',
+						path: 'square.json'
+					}
+				];
+				const waBaseUrl = 'https://play.workadventu.re';
+				const mapsList = document.getElementById('maps');
+				const host = window.location.host;
+				const instanceId = Math.random().toString(36).substring(2, 15);
+				let path = window.location.pathname;
+				if (path.endsWith('index.html')) {
+					path = path.substr(path, path.length - 'index.html'.length);
+				}
+
+				maps.forEach(map => {
+					const listEntry = document.createElement('li');
+					const link = document.createElement('a');
+					link.setAttribute('href', `${waBaseUrl}/_/${instanceId}/${host}${path}${map.path}`);
+					link.textContent = map.name;
+					listEntry.appendChild(link);
+					mapsList.appendChild(listEntry);
+				});
+			})();
+		</script>
+	</body>
+</html>
