@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -15,8 +13,11 @@
    viewBox="0 0 52 52"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="osm-logo-w-website.svg">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="2019-11-openstreetmap.org-sticker.svg"
+   inkscape:export-filename="/home/ms/workspace/osm/rc3/rC3-OSM-Map/badges/2019-11-openstreetmap.org-sticker.png"
+   inkscape:export-xdpi="500.17999"
+   inkscape:export-ydpi="500.17999">
   <title
      id="title4891">OpenStreetMap Sticker</title>
   <defs
@@ -1620,17 +1621,35 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="149.13916"
-     inkscape:cy="47.742172"
+     inkscape:zoom="4.8174482"
+     inkscape:cx="98.267714"
+     inkscape:cy="98.267767"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1869"
-     inkscape:window-height="1145"
-     inkscape:window-x="1251"
-     inkscape:window-y="441"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1918"
+     inkscape:window-height="1178"
+     inkscape:window-x="1280"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
+    <sodipodi:guide
+       position="0,52.000001"
+       orientation="0,196.53543"
+       id="guide1182" />
+    <sodipodi:guide
+       position="52.000001,52.000001"
+       orientation="196.53543,0"
+       id="guide1184" />
+    <sodipodi:guide
+       position="52.000001,0"
+       orientation="0,-196.53543"
+       id="guide1186" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-196.53543,0"
+       id="guide1188" />
+  </sodipodi:namedview>
   <metadata
      id="metadata3043">
     <rdf:RDF>
@@ -2158,7 +2177,7 @@
          id="path6587" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;opacity:0.46086958;fill:url(#radialGradient6482);fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;opacity:0.46087;fill:url(#radialGradient6482);fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="288.1427"
          y="308.21619"
          id="text6302-7"
@@ -2167,25 +2186,25 @@
            id="tspan6304-0"
            x="288.1427"
            y="308.21619"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.23867893px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';fill:url(#radialGradient6482);fill-opacity:1;stroke-width:0.26458332">01011001</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.23868px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';fill:url(#radialGradient6482);fill-opacity:1;stroke-width:0.264583">01011001</tspan><tspan
            sodipodi:role="line"
            x="288.1427"
            y="314.76453"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.23867893px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';fill:url(#radialGradient6482);fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.23868px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';fill:url(#radialGradient6482);fill-opacity:1;stroke-width:0.264583"
            id="tspan6415-7">00110101</tspan><tspan
            sodipodi:role="line"
            x="288.1427"
            y="321.3129"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.23867893px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';fill:url(#radialGradient6482);fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.23868px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';fill:url(#radialGradient6482);fill-opacity:1;stroke-width:0.264583"
            id="tspan6417-1">10010011</tspan><tspan
            sodipodi:role="line"
            x="288.1427"
            y="327.86124"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.23867893px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';fill:url(#radialGradient6482);fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.23868px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';fill:url(#radialGradient6482);fill-opacity:1;stroke-width:0.264583"
            id="tspan6419-9"> </tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;fill:url(#radialGradient6427);fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;fill:url(#radialGradient6427);fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="288.0293"
          y="307.87592"
          id="text6302"
@@ -2194,21 +2213,21 @@
            id="tspan6304"
            x="288.0293"
            y="307.87592"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.23867893px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';fill:url(#radialGradient6427);fill-opacity:1;stroke-width:0.26458332">01011001</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.23868px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';fill:url(#radialGradient6427);fill-opacity:1;stroke-width:0.264583">01011001</tspan><tspan
            sodipodi:role="line"
            x="288.0293"
            y="314.42426"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.23867893px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';fill:url(#radialGradient6427);fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.23868px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';fill:url(#radialGradient6427);fill-opacity:1;stroke-width:0.264583"
            id="tspan6415">00110101</tspan><tspan
            sodipodi:role="line"
            x="288.0293"
            y="320.97263"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.23867893px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';fill:url(#radialGradient6427);fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.23868px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';fill:url(#radialGradient6427);fill-opacity:1;stroke-width:0.264583"
            id="tspan6417">10010011</tspan><tspan
            sodipodi:role="line"
            x="288.0293"
            y="327.52097"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.23867893px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';fill:url(#radialGradient6427);fill-opacity:1;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.23868px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'Monospace Bold';fill:url(#radialGradient6427);fill-opacity:1;stroke-width:0.264583"
            id="tspan6419"> </tspan></text>
       <path
          inkscape:connector-curvature="0"
@@ -2218,7 +2237,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.41863012px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11046575px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.41863px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.110466px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="4.4559412"
        y="293.47937"
        id="text1126"><tspan
@@ -2226,7 +2245,7 @@
          id="tspan1124"
          x="4.4559412"
          y="293.47937"
-         style="stroke-width:0.11046575px">OpenStreetMap.org</tspan></text>
+         style="stroke-width:0.110466px">OpenStreetMap.org</tspan></text>
     <g
        aria-label="OSM Logo © 2011 CC BY-SA 3.0"
        transform="rotate(-110.97828)"
@@ -2239,7 +2258,7 @@
          id="path1140"
          inkscape:original-d="m -241.53287,-84.740343 q -0.0438,0 -0.0696,0.03264 -0.0257,0.03264 -0.0257,0.08895 0,0.05612 0.0257,0.08875 0.0259,0.03264 0.0696,0.03264 0.0438,0 0.0693,-0.03264 0.0257,-0.03264 0.0257,-0.08875 0,-0.05632 -0.0257,-0.08895 -0.0255,-0.03264 -0.0693,-0.03264 z m 0,-0.03264 q 0.0625,0 0.0999,0.04199 0.0374,0.04179 0.0374,0.112237 0,0.07025 -0.0374,0.112237 -0.0374,0.04179 -0.0999,0.04179 -0.0627,0 -0.1003,-0.04179 -0.0374,-0.04179 -0.0374,-0.112237 0,-0.07045 0.0374,-0.112237 0.0376,-0.04199 0.1003,-0.04199 z" />
       <path
-         d="m -241.22937,-84.675626 -0.007,0.0385 c -0.0137,-0.0098 -0.0268,-0.01761 -0.0394,-0.0235 -0.0126,-0.0059 -0.025,-0.01 -0.0373,-0.01221 -0.0213,-0.0039 -0.0385,-0.0028 -0.0517,0.0034 -0.0131,0.0062 -0.021,0.01694 -0.0239,0.03229 -0.002,0.01288 -4.3e-4,0.02336 0.006,0.03143 0.007,0.0079 0.0203,0.01595 0.0413,0.02398 0.008,0.0031 0.0153,0.0062 0.023,0.0092 0.0285,0.01096 0.0485,0.02468 0.06,0.04131 0.0117,0.01654 0.0155,0.03666 0.0114,0.06038 -0.005,0.02828 -0.0182,0.04807 -0.0401,0.05929 -0.0217,0.01124 -0.0513,0.01357 -0.0885,0.0068 -0.014,-0.0026 -0.0287,-0.0069 -0.044,-0.01296 -0.0152,-0.0061 -0.0306,-0.01376 -0.0464,-0.02307 l 0.008,-0.04058 c 0.0145,0.01206 0.0291,0.02182 0.0438,0.02928 0.0147,0.0075 0.0296,0.01259 0.0447,0.01533 0.0228,0.0042 0.0412,0.0029 0.0552,-0.0038 0.014,-0.0067 0.0224,-0.01821 0.0253,-0.03463 0.003,-0.01433 4e-5,-0.02632 -0.007,-0.03598 -0.007,-0.0096 -0.0207,-0.01827 -0.0402,-0.02597 -0.008,-0.003 -0.0155,-0.0061 -0.0233,-0.0091 -0.0285,-0.01132 -0.0481,-0.02453 -0.059,-0.03948 -0.0108,-0.01499 -0.014,-0.03361 -0.01,-0.05586 0.005,-0.02576 0.0178,-0.04431 0.0386,-0.05573 0.0209,-0.0114 0.0471,-0.01415 0.0786,-0.0084 0.0135,0.0025 0.0271,0.0062 0.0408,0.01124 0.0136,0.005 0.0274,0.01128 0.0413,0.0188 z"
+         d="m -241.22937,-84.675626 -0.007,0.0385 c -0.0137,-0.0098 -0.0268,-0.01761 -0.0394,-0.0235 -0.0126,-0.0059 -0.025,-0.01 -0.0373,-0.01221 -0.0213,-0.0039 -0.0385,-0.0028 -0.0517,0.0034 -0.0131,0.0062 -0.021,0.01694 -0.0239,0.03229 -0.002,0.01288 -4.3e-4,0.02336 0.006,0.03143 0.007,0.0079 0.0203,0.01595 0.0413,0.02398 0.008,0.0031 0.0153,0.0062 0.023,0.0092 0.0285,0.01096 0.0485,0.02468 0.06,0.04131 0.0117,0.01654 0.0155,0.03666 0.0114,0.06038 -0.005,0.02828 -0.0182,0.04807 -0.0401,0.05929 -0.0218,0.01124 -0.0513,0.01357 -0.0885,0.0068 -0.014,-0.0026 -0.0287,-0.0069 -0.044,-0.01296 -0.0152,-0.0061 -0.0306,-0.01376 -0.0464,-0.02307 l 0.008,-0.04058 c 0.0145,0.01206 0.0291,0.02182 0.0438,0.02928 0.0147,0.0075 0.0296,0.01259 0.0447,0.01533 0.0228,0.0042 0.0412,0.0029 0.0552,-0.0038 0.014,-0.0067 0.0224,-0.01821 0.0253,-0.03463 0.003,-0.01433 4e-5,-0.02632 -0.007,-0.03598 -0.007,-0.0096 -0.0207,-0.01827 -0.0402,-0.02597 -0.008,-0.003 -0.0155,-0.0061 -0.0233,-0.0091 -0.0285,-0.01132 -0.0481,-0.02453 -0.059,-0.03948 -0.0108,-0.01499 -0.014,-0.03361 -0.01,-0.05586 0.005,-0.02576 0.0178,-0.04431 0.0386,-0.05573 0.0209,-0.0114 0.0471,-0.01415 0.0786,-0.0084 0.0135,0.0025 0.0271,0.0062 0.0408,0.01124 0.0136,0.005 0.0274,0.01128 0.0413,0.0188 z"
          style="stroke-width:0.01018904px"
          id="path1142"
          inkscape:original-d="m -241.15457,-84.757855 v 0.0392 q -0.0229,-0.01094 -0.0432,-0.01632 -0.0203,-0.0054 -0.0392,-0.0054 -0.0328,0 -0.0507,0.01274 -0.0177,0.01274 -0.0177,0.03622 0,0.0197 0.0117,0.02985 0.0119,0.0099 0.045,0.01612 l 0.0243,0.005 q 0.045,0.0086 0.0663,0.03025 0.0215,0.02149 0.0215,0.05771 0,0.04318 -0.0291,0.06547 -0.0289,0.02229 -0.0848,0.02229 -0.0211,0 -0.045,-0.0048 -0.0237,-0.0048 -0.0492,-0.01413 v -0.04139 q 0.0245,0.01373 0.048,0.0207 0.0235,0.007 0.0462,0.007 0.0344,0 0.0531,-0.01353 0.0187,-0.01353 0.0187,-0.03861 0,-0.02189 -0.0135,-0.03423 -0.0133,-0.01234 -0.044,-0.01851 l -0.0245,-0.0048 q -0.045,-0.009 -0.0651,-0.02806 -0.0201,-0.0191 -0.0201,-0.05313 0,-0.0394 0.0277,-0.06209 0.0279,-0.02269 0.0766,-0.02269 0.0209,0 0.0426,0.0038 0.0217,0.0038 0.0444,0.01134 z" />
@@ -2344,5 +2363,17 @@
          id="path1182"
          inkscape:original-d="m -235.32085,-84.741139 q -0.031,0 -0.0468,0.03065 -0.0155,0.03045 -0.0155,0.09174 0,0.06109 0.0155,0.09174 0.0157,0.03045 0.0468,0.03045 0.0312,0 0.0468,-0.03045 0.0157,-0.03065 0.0157,-0.09174 0,-0.06129 -0.0157,-0.09174 -0.0155,-0.03065 -0.0468,-0.03065 z m 0,-0.03184 q 0.0499,0 0.0762,0.0396 0.0265,0.0394 0.0265,0.114625 0,0.07502 -0.0265,0.114625 -0.0263,0.0394 -0.0762,0.0394 -0.0499,0 -0.0764,-0.0394 -0.0263,-0.0396 -0.0263,-0.114625 0,-0.07522 0.0263,-0.114625 0.0265,-0.0396 0.0764,-0.0396 z" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70565px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.110481px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-270.66736"
+       y="0.73610198"
+       id="text1126-0"
+       transform="matrix(0,-0.99986701,1.000133,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1198"
+         x="-270.66736"
+         y="0.73610198"
+         style="stroke-width:0.110481px">Logo by Ken Vermette, CC BY-SA 3.0; Sticker by Amᵃᵖanda, CC BY-SA 4.0</tspan></text>
   </g>
 </svg>
