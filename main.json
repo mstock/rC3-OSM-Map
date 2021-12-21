@@ -1930,27 +1930,26 @@
         {
          "draworder":"topdown",
          "id":29,
-         "name":"Stickers text",
+         "name":"Stickers Badge",
          "objects":[
                 {
-                 "height":19,
-                 "id":11,
+                 "height":96,
+                 "id":12,
                  "name":"",
                  "rotation":0,
-                 "text":
-                    {
-                     "text":"Stickers!",
-                     "wrap":true
-                    },
                  "type":"",
                  "visible":true,
-                 "width":91.4375,
-                 "x":834.617058847272,
-                 "y":711.714078140136
+                 "width":96,
+                 "x":832,
+                 "y":704
                 }],
-         "offsetx":12,
-         "offsety":0,
          "opacity":1,
+         "properties":[
+                {
+                 "name":"getBadge",
+                 "type":"string",
+                 "value":"4Ua09XOevUDoACfIWE7mMt8mJPfO3zTJgOoDCJQdrnc39Yooug"
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -1968,7 +1967,7 @@
          "y":0
         }],
  "nextlayerid":84,
- "nextobjectid":12,
+ "nextobjectid":13,
  "orientation":"orthogonal",
  "properties":[
         {
