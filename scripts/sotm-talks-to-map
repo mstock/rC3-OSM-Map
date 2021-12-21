@@ -1,0 +1,115 @@
+#!/usr/bin/env perl
+
+# ABSTRACT: Add or update links to conference talks in a WorkAdventure map
+
+use utf8;
+use 5.020000;
+use warnings;
+
+use Moose;
+with 'MooseX::Getopt::Dashes';
+
+no warnings qw(experimental::signatures);
+use feature qw(signatures);
+
+use JSON;
+use HTTP::Tiny;
+use Path::Class::File;
+use MooseX::Types::Path::Class;
+
+
+has 'event_id' => (
+	is            => 'ro',
+	isa           => 'Str',
+	default       => "sotm2021",
+	documentation => 'Id of the event in the API.',
+);
+
+has 'api_base_url' => (
+	is            => 'ro',
+	isa           => 'Str',
+	default       => 'https://api.media.ccc.de/public/conferences',
+	documentation => 'API base URL.',
+);
+
+has 'map' => (
+	is            => 'ro',
+	isa           => 'Path::Class::File',
+	coerce        => 1,
+	default       => sub {
+		return Path::Class::File->new('main.json');
+	},
+	documentation => 'Map file to modify.',
+);
+
+has 'layer_group' => (
+	is            => 'ro',
+	isa           => 'Str',
+	default       => 'Link: cinema-benches',
+	documentation => 'Layer group with layers that should get links.',
+);
+
+
+sub run ($self) {
+	my $json = JSON->new()->utf8()->pretty();
+
+	my @events = $self->get_released_events($self->event_id());
+
+	my $map = $json->decode(scalar $self->map()->slurp());
+	my ($layer_group) = grep {
+		$_->{type} eq 'group'
+			&& $_->{name} eq $self->layer_group()
+	} @{$map->{layers}};
+	unless (defined $layer_group) {
+		die 'No layer group named ' . $self->layer_group() . ' found';
+	}
+
+	for my $map_layer (@{$layer_group->{layers}}) {
+		my $name = $map_layer->{name};
+		my $event = $events[$name + 0];
+		unless (defined $event) {
+			die 'No event for layer ' . $name . ' found';
+		}
+		my $event_url = $event->{frontend_link} . '/oembed';
+		my $event_title = $event->{title};
+		my $event_speakers = join(', ', @{$event->{persons}});
+		$map_layer->{properties} = [{
+			name  => 'openWebsite',
+			type  => 'string',
+			value => $event_url,
+		}, {
+			name  => 'openWebsitePolicy',
+			type  => 'string',
+			value => 'fullscreen',
+		}, {
+			name  => 'openWebsiteTrigger',
+			type  => 'string',
+			value => 'onaction',
+		}, {
+			name  => 'openWebsiteTriggerMessage',
+			type  => 'string',
+			value => "DE: Leertaste drücken, um den \"" . $event_title . "\"-Vortrag von " . $event_speakers . " anzuschauen — EN: Press spacebar to watch the \"" . $event_title . "\" talk by " . $event_speakers,
+		}];
+	}
+	$self->map()->spew($json->encode($map));
+}
+
+
+sub get_released_events ($self, $event_id) {
+	my $ua = HTTP::Tiny->new();
+	my $res = $ua->get($self->api_base_url() . '/' . $event_id, {
+		headers => {
+			'Content-Type' => 'application/json',
+		},
+	});
+	unless ($res->{success}) {
+		die 'Failed to fetch releases: ' . $res->{reason};
+	}
+	my $conference = decode_json($res->{content});
+
+	my @sorted_events = sort { $a->{date} cmp $b->{date} } @{$conference->{events}};
+	return @sorted_events;
+}
+
+
+__PACKAGE__->new_with_options()->run() unless caller();
