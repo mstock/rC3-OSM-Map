@@ -158,6 +158,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/wiki.openstreetmap.org\/wiki\/Tag:amenity%3Dhospital"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"DE: Leertaste dr\u00fccken, um die amenity=hospital-Wiki-Seite zu besuchen \u2014 EN: Press spacebar to visit the amenity=hospital wiki page"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -176,6 +186,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/wiki.openstreetmap.org\/wiki\/Tag:amenity=post_office"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"DE: Leertaste dr\u00fccken, um die amenity=post_office-Wiki-Seite zu besuchen \u2014 EN: Press spacebar to visit the amenity=post_office wiki page"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -194,6 +214,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/wiki.openstreetmap.org\/wiki\/Tag:shop=clothes"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"DE: Leertaste dr\u00fccken, um die shop=clothes-Wiki-Seite zu besuchen \u2014 EN: Press spacebar to visit the shop=clothes wiki page"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -212,6 +242,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/wiki.openstreetmap.org\/wiki\/Tag:shop=coffee"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"DE: Leertaste dr\u00fccken, um die shop=coffee-Wiki-Seite zu besuchen \u2014 EN: Press spacebar to visit the shop=coffee wiki page"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -230,6 +270,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/wiki.openstreetmap.org\/wiki\/Tag:shop=computer"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"DE: Leertaste dr\u00fccken, um die shop=computer-Wiki-Seite zu besuchen \u2014 EN: Press spacebar to visit the shop=computer wiki page"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -248,6 +298,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/wiki.openstreetmap.org\/wiki\/Tag:shop=furniture"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"DE: Leertaste dr\u00fccken, um die shop=furniture-Wiki-Seite zu besuchen \u2014 EN: Press spacebar to visit the shop=furniture wiki page"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -266,6 +326,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/wiki.openstreetmap.org\/wiki\/Tag:amenity=cinema"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"DE: Leertaste dr\u00fccken, um die amenity=cinema-Wiki-Seite zu besuchen \u2014 EN: Press spacebar to visit the amenity=cinema wiki page"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -286,6 +356,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/wiki.openstreetmap.org\/wiki\/OSM_Promotional_Material_Programme"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"DE: Leertaste dr\u00fccken, um die \"OSM Promotional Material Programme\"-Wiki-Seite zu besuchen \u2014 EN: Press spacebar to visit the OSM Promotional Material Programme wiki page"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -304,6 +384,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.openstreetmap.org\/export\/embed.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"DE: Leertaste dr\u00fccken, um eine einfache OSM-Karte zu besuchen \u2014 EN: Press spacebar to visit a simple OSM map"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -322,6 +412,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/wiki.osm.org\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"DE: Leertaste dr\u00fccken, um das OSM-Wiki zu besuchen \u2014 EN: Press spacebar to visit the OSM wiki"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -340,6 +440,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/wiki.osmfoundation.org\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"DE: Leertaste dr\u00fccken, um das OSM-Foundation Wiki zu besuchen \u2014 EN: Press spacebar to visit the OSM foundation wiki"
                 }],
          "type":"tilelayer",
          "visible":true,
