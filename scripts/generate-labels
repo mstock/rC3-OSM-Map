@@ -1,0 +1,4 @@
+#!/bin/bash
+
+./tilesets/rC3-OSM-Tileset/bin/label-generator --color amenity_brown --target-file tilesets/labels/osm-kino.png --text 'OSM-Kino'
+./tilesets/rC3-OSM-Tileset/bin/label-generator --color amenity_brown --target-file tilesets/labels/stickers.png --text 'Stickers!'
