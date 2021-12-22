@@ -1973,7 +1973,22 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"rC3-OSM-Map contributors, CC0 1.0 Universal, https:\/\/github.com\/mstock\/rC3-OSM-Map\/"
+         "value":"rC3-OSM-Map contributors, CC0 1.0 Universal"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"WorkAdventure map of the OpenStreetMap assembly at rC3 2021, based on a tileset that mimics the OpenStreetMap Carto map rendering style."
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/github.com\/mstock\/rC3-OSM-Map\/"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"OpenStreetMap Assembly @ rC3 2021 - Main World Map"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
