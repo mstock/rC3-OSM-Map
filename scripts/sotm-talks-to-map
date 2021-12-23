@@ -78,10 +78,6 @@ sub run ($self) {
 			type  => 'string',
 			value => $event_url,
 		}, {
-			name  => 'openWebsitePolicy',
-			type  => 'string',
-			value => 'fullscreen',
-		}, {
 			name  => 'openWebsiteTrigger',
 			type  => 'string',
 			value => 'onaction',

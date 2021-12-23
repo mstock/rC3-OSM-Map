@@ -223,11 +223,6 @@
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-10306-closing\/oembed"
                         }, 
                         {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
-                        }, 
-                        {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -254,11 +249,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-9963-a-b-street-using-osm-for-transportation-advocacy\/oembed"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -289,11 +279,6 @@
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-10055-building-a-global-outdoor-map\/oembed"
                         }, 
                         {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
-                        }, 
-                        {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -320,11 +305,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-10063-why-osm-is-not-known-more-widely-about-consequences-of-not-enforcing-attribution-requirements\/oembed"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -355,11 +335,6 @@
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-9972-overpass-api-since-10-years\/oembed"
                         }, 
                         {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
-                        }, 
-                        {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -386,11 +361,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-academic-10397-involvement-of-openstreetmap-in-european-h2020-projects\/oembed"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -421,11 +391,6 @@
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-9969-a-new-map-renderer-for-osm-rasters-vectors-language-and-internationalization\/oembed"
                         }, 
                         {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
-                        }, 
-                        {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -452,11 +417,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-academic-10425-an-automated-approach-to-identifying-corporate-editing-activity-in-openstreetmap\/oembed"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -487,11 +447,6 @@
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-academic-10188-introducing-openstreetmap-user-embeddings-promising-steps-toward-automated-vandalism-and-community-detection\/oembed"
                         }, 
                         {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
-                        }, 
-                        {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -518,11 +473,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-10656-lightning-talks-iii\/oembed"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -553,11 +503,6 @@
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-academic-10424-a-proposal-for-a-qgis-plugin-for-spatio-temporal-analysis-of-osm-data-quality-the-case-study-for-the-city-of-salvador-brazil\/oembed"
                         }, 
                         {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
-                        }, 
-                        {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -584,11 +529,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-10053-dealing-with-quantity-vs-quality\/oembed"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -619,11 +559,6 @@
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-academic-10398-towards-understanding-the-temporal-accuracy-of-openstreetmap-a-quantitative-experiment\/oembed"
                         }, 
                         {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
-                        }, 
-                        {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -650,11 +585,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-academic-10380-community-interactions-in-osm-editing\/oembed"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -685,11 +615,6 @@
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-academic-10423-towards-a-framework-for-measuring-local-data-contribution-in-openstreetmap\/oembed"
                         }, 
                         {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
-                        }, 
-                        {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -716,11 +641,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-academic-10415-what-has-machine-learning-ever-done-for-us-\/oembed"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -751,11 +671,6 @@
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-academic-10416-nlmaps-web-a-natural-language-interface-to-openstreetmap\/oembed"
                         }, 
                         {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
-                        }, 
-                        {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -782,11 +697,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-10069-community-growth-what-we-learned-about-improving-the-membership-and-diversity-of-osm-kenya-through-the-community-impact-microgrants-\/oembed"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -817,11 +727,6 @@
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-10040-openstreetmap-standard-layer-who-uses-it-\/oembed"
                         }, 
                         {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
-                        }, 
-                        {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -848,11 +753,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-10029-openstreetmap-and-the-neglected-pedestrian\/oembed"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -883,11 +783,6 @@
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-10066-maplibre-community-driven-mapbox-gl-fork\/oembed"
                         }, 
                         {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
-                        }, 
-                        {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -914,11 +809,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-9971-mapping-heritage-in-ireland-a-journey\/oembed"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -949,11 +839,6 @@
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-10041-news-from-osm2pgsql\/oembed"
                         }, 
                         {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
-                        }, 
-                        {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -980,11 +865,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-10044-how-streetcomplete-handles-edits\/oembed"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -1015,11 +895,6 @@
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-10308-lightning-talks-ii\/oembed"
                         }, 
                         {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
-                        }, 
-                        {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -1046,11 +921,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-10061-mapping-unmapped-towns-in-turkey-by-building-and-enlarging-openstreetmap-turkey-community\/oembed"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -1081,11 +951,6 @@
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-10068-collection-and-use-of-data-about-entrances-of-buildings\/oembed"
                         }, 
                         {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
-                        }, 
-                        {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -1112,11 +977,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-10028-with-great-power-comes-great-responsibility\/oembed"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -1147,11 +1007,6 @@
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-10054-how-to-map-a-city-s-public-transport-during-a-pandemic\/oembed"
                         }, 
                         {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
-                        }, 
-                        {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -1178,11 +1033,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-10025-improving-osm-data-in-coastal-communities\/oembed"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -1213,11 +1063,6 @@
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-10021-linting-the-map-together-collaborations-of-mapbox-data-rave-and-openstreetmap-communities\/oembed"
                         }, 
                         {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
-                        }, 
-                        {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -1244,11 +1089,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-10307-lightning-talks-i\/oembed"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -1279,11 +1119,6 @@
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-9528-makina-maps\/oembed"
                         }, 
                         {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
-                        }, 
-                        {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -1310,11 +1145,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-9448-introduction-and-review-of-mapcomplete\/oembed"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -1345,11 +1175,6 @@
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-10046-boundaries-places-and-the-future-of-tagging\/oembed"
                         }, 
                         {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
-                        }, 
-                        {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -1376,11 +1201,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-10059-osm-data-privacy-risks-and-gdpr-compliance\/oembed"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -1411,11 +1231,6 @@
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-9962-3d-rendering-with-osm2world\/oembed"
                         }, 
                         {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
-                        }, 
-                        {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -1442,11 +1257,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-9623-mapatanda-mapping-for-and-with-the-ageing-population\/oembed"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -1477,11 +1287,6 @@
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-9983-from-global-to-local-osm-mapping-cartong-s-overall-osm-based-strategy-to-support-humanitarian-response-in-refugee-camp\/oembed"
                         }, 
                         {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
-                        }, 
-                        {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -1508,11 +1313,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-10039-journey-to-improving-the-navigation-experience-for-grab-driver-partners-using-osm\/oembed"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -1543,11 +1343,6 @@
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-9580-map-less-map-editors\/oembed"
                         }, 
                         {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
-                        }, 
-                        {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -1574,11 +1369,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/media.ccc.de\/v\/sotm2021-10305-opening\/oembed"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
