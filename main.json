@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lounge\/"
+                 "value":"world:\/\/lounge\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
