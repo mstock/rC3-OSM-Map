@@ -1915,12 +1915,6 @@
          "id":38,
          "name":"Labels",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"rC3-Labels: Manfred Stock, CC0 1.0 Universal"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -2193,6 +2187,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"rC3-Labels",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rC3-Labels: Manfred Stock, CC0 1.0 Universal"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
