@@ -1924,12 +1924,18 @@
         {
          "draworder":"topdown",
          "id":29,
-         "name":"Stickers Badge",
+         "name":"Badges",
          "objects":[
                 {
                  "height":96,
                  "id":12,
-                 "name":"",
+                 "name":"Stickers!",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"4Ua09XOevUDoACfIWE7mMt8mJPfO3zTJgOoDCJQdrnc39Yooug"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1938,12 +1944,6 @@
                  "y":704
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"4Ua09XOevUDoACfIWE7mMt8mJPfO3zTJgOoDCJQdrnc39Yooug"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
