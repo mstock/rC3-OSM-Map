@@ -1485,7 +1485,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openTab",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/join.osmfoundation.org\/"
                 }, 
