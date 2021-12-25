@@ -1788,6 +1788,23 @@
                  "width":96,
                  "x":832,
                  "y":704
+                }, 
+                {
+                 "height":96,
+                 "id":13,
+                 "name":"Join OSMF",
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"Z7zIT1Xht5Hp8UKMqzpo4cHAVsBy2mqjRAt8DHSSzs6fm0jlYL "
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":96,
+                 "x":1184,
+                 "y":736
                 }],
          "opacity":1,
          "type":"objectgroup",
