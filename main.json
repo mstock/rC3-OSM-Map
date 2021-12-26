@@ -1628,6 +1628,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"shared-GlobalPhonebooth"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"DE: Leertaste dr\u00fccken, um die globale Telefonzellen-Videokonferenz zu betreten \u2014 EN: Press spacebar to enter the global phone booth video conference"
                 }],
          "type":"tilelayer",
          "visible":true,
