@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby"
+                 "value":"world:\/\/lobby\/solarpunk.json#start_osm"
                 }],
          "type":"tilelayer",
          "visible":true,
