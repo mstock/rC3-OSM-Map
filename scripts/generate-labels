@@ -3,4 +3,6 @@
 ./tilesets/rC3-OSM-Tileset/bin/label-generator --color amenity_brown --target-file tilesets/labels/osm-kino.png --text 'OSM-Kino'
 ./tilesets/rC3-OSM-Tileset/bin/label-generator --color amenity_brown --target-file tilesets/labels/stickers.png --text 'Stickers!'
 ./tilesets/rC3-OSM-Tileset/bin/label-generator --color office --target-file tilesets/labels/osmf.png --text 'OSM-Foundation'
+./tilesets/rC3-OSM-Tileset/bin/label-generator --color office --target-file tilesets/labels/fossgis.png --text 'FOSSGIS e.V.'
+./tilesets/rC3-OSM-Tileset/bin/label-generator --color office --target-file tilesets/labels/sosm.png --text 'SOSM'
 ./tilesets/rC3-OSM-Tileset/bin/label-generator --color amenity_brown --target-file tilesets/labels/osm-communities.png --text 'OSM-Communities'
